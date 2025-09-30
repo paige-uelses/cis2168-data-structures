@@ -5,3 +5,4 @@ Java implementations of data structure exercises:
 - **Reverser.java** – Reverses arrays using two-pointer technique
 - **Intersect.java** – Finds intersection of two sorted ArrayLists
 - **Squash.java** – Removes consecutive duplicates from arrays
+- **Leader.java** - Circle elimination game using linked list (simulates leader election)
