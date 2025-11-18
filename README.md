@@ -1,4 +1,4 @@
-#CIS2168 Data Structures (Temple University)
+**#CIS2168 Data Structures (Temple University)**
 
 Java implementations of data structure exercises:
 - **ZigZag.java** – Traverses a 2D array in zigzag order
